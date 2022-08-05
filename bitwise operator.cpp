@@ -18,6 +18,8 @@ int main()
     cout<<"a|b is " << ( a|b )<<endl;
     cout<<"~a is " << ( ~a)<<endl;
     cout<<"a^b is " << ( a^b )<<endl;
+    cout<<(17<<2)<<endl;
+    cout<<(17>>2)<<endl;
 
     return 0;
 }
